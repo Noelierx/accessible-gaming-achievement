@@ -2,6 +2,27 @@
 
 ## Comment faire ?
 
+### Architecture modulaire
+```mermaid
+graph TD
+    A[Core Game Engine] --> B[Accessibility Manager]
+    B --> C[Visual Accessibility]
+    B --> D[Audio Accessibility]
+    B --> E[Input Accessibility]
+    B --> F[Cognitive Accessibility]
+    C --> G[Color Filters]
+    C --> H[Text Scaling]
+    C --> I[UI Contrast]
+    D --> J[Subtitles System]
+    D --> K[Sound Visualizer]
+    D --> L[Text-to-Speech]
+    E --> M[Input Remapping]
+    E --> N[Adaptive Controls]
+    F --> O[Difficulty Scaling]
+    F --> P[Game Speed Control]
+    F --> Q[Tutorial System]
+```
+
 ### Référentiels et Guidelines
 - [Xbox Accessibility Guidelines](https://docs.microsoft.com/en-us/gaming/accessibility/xbox-accessibility-guidelines)
 - [Games Accessibility Guidelines](http://gameaccessibilityguidelines.com/)
