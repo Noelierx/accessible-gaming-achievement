@@ -39,3 +39,15 @@ graph TD
 ### Intégration Continue
 - **CI/CD** : Utilisation de services comme Jenkins, Travis CI, ou GitHub Actions pour automatiser les tests d’accessibilité.
 
+## Communautés
+### Organisations et initiatives
+- [Able Gamers](https://ablegamers.org/)
+- [CapGame](https://capgame.fr/)
+- [Special Effect](https://www.specialeffect.org.uk/)
+
+### Reddit et discord
+- [r/accessiblegaming](https://www.reddit.com/r/accessiblegaming/)
+- [Game Accessibility (IGDA-GASIG)](https://discord.gg/ZEtgxJFbqu)
+
+### Conférences et événements
+- [GAConf](https://www.gaconf.com/)
