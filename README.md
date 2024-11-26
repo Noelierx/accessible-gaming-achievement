@@ -31,6 +31,7 @@ graph TD
 ### Formations
 - [Accessible Design with Unreal Engine](https://dev.epicgames.com/community/learning/courses/7M1/accessible-design-with-unreal-engine/yGwl/accessible-design-in-unreal-engine-overview)
 - [Microsoft Learn : Gaming accessibility fundamentals](https://learn.microsoft.com/en-us/training/paths/gaming-accessibility-fundamentals/)
+- [Certified APX Practitioner Course](https://accessible.games/certified-apx-practitioner-course/)
 
 ### Outils de Développement
 - [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin)
@@ -44,6 +45,8 @@ graph TD
 - [Able Gamers](https://ablegamers.org/)
 - [CapGame](https://capgame.fr/)
 - [Special Effect](https://www.specialeffect.org.uk/)
+- [Game'Her](https://gameher.fr/)
+- [Can I play that?](https://caniplaythat.com/)
 
 ### Reddit et discord
 - [r/accessiblegaming](https://www.reddit.com/r/accessiblegaming/)
@@ -51,3 +54,5 @@ graph TD
 
 ### Conférences et événements
 - [GAConf](https://www.gaconf.com/)
+- [JAMTL/Conf](https://www.linkedin.com/company/jamtl-conf/)
+- [#a11yTO Gaming](https://gaming.a11yto.com/)
