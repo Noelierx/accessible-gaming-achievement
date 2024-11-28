@@ -49,6 +49,7 @@ graph TD
 - [Game'Her](https://gameher.fr/)
 - [Can I play that?](https://caniplaythat.com/)
 - [Able to play](https://abletoplay.com/)
+- [Game Accessibility Nexus](https://www.gameaccessibilitynexus.com/)
 
 ### Reddit et discord
 - [r/accessiblegaming](https://www.reddit.com/r/accessiblegaming/)
