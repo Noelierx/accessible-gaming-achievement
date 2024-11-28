@@ -57,3 +57,4 @@ graph TD
 - [GAConf](https://www.gaconf.com/)
 - [JAMTL/Conf](https://www.linkedin.com/company/jamtl-conf/)
 - [#a11yTO Gaming](https://gaming.a11yto.com/)
+- [XR Access](https://xraccess.org/)
