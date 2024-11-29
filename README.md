@@ -28,6 +28,7 @@ graph TD
 - [Games Accessibility Guidelines](http://gameaccessibilityguidelines.com/)
 - [Accessible Player Experiences (APX)](https://accessible.games/)
 - [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/)
+- [SIG Guidelines](https://igda-gasig.org/get-involved/sig-initiatives/resources-for-game-developers/sig-guidelines/)
 
 ### Formations
 - [Accessible Design with Unreal Engine](https://dev.epicgames.com/community/learning/courses/7M1/accessible-design-with-unreal-engine/yGwl/accessible-design-in-unreal-engine-overview)
