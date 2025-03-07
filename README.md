@@ -34,6 +34,7 @@ graph TD
 - [Accessible Design with Unreal Engine](https://dev.epicgames.com/community/learning/courses/7M1/accessible-design-with-unreal-engine/yGwl/accessible-design-in-unreal-engine-overview)
 - [Microsoft Learn : Gaming accessibility fundamentals](https://learn.microsoft.com/en-us/training/paths/gaming-accessibility-fundamentals/)
 - [Certified APX Practitioner Course](https://accessible.games/certified-apx-practitioner-course/)
+- [Accessibilité et Production de Jeu Vidéo, Approche Neuroinclusive](https://bertieformation.catalogueformpro.com/2/design/1955970/accessibilite-et-production-de-jeu-video-approche-neuroinclusive)
 
 ### Outils de Développement
 - [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin)
