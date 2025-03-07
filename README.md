@@ -35,6 +35,8 @@ graph TD
 - [Microsoft Learn : Gaming accessibility fundamentals](https://learn.microsoft.com/en-us/training/paths/gaming-accessibility-fundamentals/)
 - [Certified APX Practitioner Course](https://accessible.games/certified-apx-practitioner-course/)
 - [Accessibilité et Production de Jeu Vidéo, Approche Neuroinclusive](https://bertieformation.catalogueformpro.com/2/design/1955970/accessibilite-et-production-de-jeu-video-approche-neuroinclusive)
+- [Video Game Accessibility](https://abilitynet.org.uk/training/video-game-accessibility)
+- [Practical Game Accessibility](https://learn.unity.com/course/practical-game-accessibility)
 
 ### Outils de Développement
 - [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin)
