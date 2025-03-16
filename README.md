@@ -55,6 +55,8 @@ graph TD
 - [Able to play](https://abletoplay.com/)
 - [Game Accessibility Nexus](https://www.gameaccessibilitynexus.com/)
 - [Accessibility Unlocked](https://www.accessunlocked.games/)
+- [Game Lover](https://www.game-lover.org/)
+- [Play Ability](https://www.playability.gg/fr)
 
 ### Reddit et discord
 - [r/accessiblegaming](https://www.reddit.com/r/accessiblegaming/)
