@@ -41,6 +41,7 @@ graph TD
 ### Outils de Développement
 - [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin)
 - [Microsoft Game Accessibility Testing Service (MGATS)](https://learn.microsoft.com/en-us/gaming/accessibility/mgats)
+- [Ubisoft’s Colorblind Simulation Tool, Chroma](https://github.com/ubisoft/Chroma)
 
 ### Intégration Continue
 - **CI/CD** : Utilisation de services comme Jenkins, Travis CI, ou GitHub Actions pour automatiser les tests d’accessibilité.
