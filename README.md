@@ -29,6 +29,7 @@ graph TD
 - [Accessible Player Experiences (APX)](https://accessible.games/)
 - [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/)
 - [SIG Guidelines](https://igda-gasig.org/get-involved/sig-initiatives/resources-for-game-developers/sig-guidelines/)
+- [Creating Accessible Packaging](https://packagingandcontent.blob.core.windows.net/accessibility/Creating-Accessible-Packaging.pdf)
 
 ### Formations
 - [Accessible Design with Unreal Engine](https://dev.epicgames.com/community/learning/courses/7M1/accessible-design-with-unreal-engine/yGwl/accessible-design-in-unreal-engine-overview)
@@ -37,11 +38,13 @@ graph TD
 - [Accessibilité et Production de Jeu Vidéo, Approche Neuroinclusive](https://bertieformation.catalogueformpro.com/2/design/1955970/accessibilite-et-production-de-jeu-video-approche-neuroinclusive)
 - [Video Game Accessibility](https://abilitynet.org.uk/training/video-game-accessibility)
 - [Practical Game Accessibility](https://learn.unity.com/course/practical-game-accessibility)
+- [Adaptive Gaming - Makers Making Change](https://www.makersmakingchange.com/s/adaptive-gaming)
 
-### Outils de Développement
+### Outils de Développement et logiciels
 - [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin)
 - [Microsoft Game Accessibility Testing Service (MGATS)](https://learn.microsoft.com/en-us/gaming/accessibility/mgats)
 - [Ubisoft’s Colorblind Simulation Tool, Chroma](https://github.com/ubisoft/Chroma)
+- [SensePilot](https://sensepilot.tech/)
 
 ### Intégration Continue
 - **CI/CD** : Utilisation de services comme Jenkins, Travis CI, ou GitHub Actions pour automatiser les tests d’accessibilité.
@@ -58,6 +61,7 @@ graph TD
 - [Accessibility Unlocked](https://www.accessunlocked.games/)
 - [Game Lover](https://www.game-lover.org/)
 - [Play Ability](https://www.playability.gg/fr)
+- [Acessible Game Initiative](https://accessiblegames.com/)
 
 ### Reddit et discord
 - [r/accessiblegaming](https://www.reddit.com/r/accessiblegaming/)
