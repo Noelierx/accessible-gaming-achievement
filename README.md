@@ -45,6 +45,7 @@ graph TD
 - [Microsoft Game Accessibility Testing Service (MGATS)](https://learn.microsoft.com/en-us/gaming/accessibility/mgats)
 - [Ubisoft’s Colorblind Simulation Tool, Chroma](https://github.com/ubisoft/Chroma)
 - [SensePilot](https://sensepilot.tech/)
+- [Play Ability](https://www.playability.gg/fr)
 
 ### Intégration Continue
 - **CI/CD** : Utilisation de services comme Jenkins, Travis CI, ou GitHub Actions pour automatiser les tests d’accessibilité.
@@ -60,7 +61,6 @@ graph TD
 - [Game Accessibility Nexus](https://www.gameaccessibilitynexus.com/)
 - [Accessibility Unlocked](https://www.accessunlocked.games/)
 - [Game Lover](https://www.game-lover.org/)
-- [Play Ability](https://www.playability.gg/fr)
 - [Acessible Game Initiative](https://accessiblegames.com/)
 
 ### Reddit et discord
