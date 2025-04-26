@@ -30,6 +30,7 @@ graph TD
 - [XR Accessibility User Requirements](https://www.w3.org/TR/xaur/)
 - [SIG Guidelines](https://igda-gasig.org/get-involved/sig-initiatives/resources-for-game-developers/sig-guidelines/)
 - [Creating Accessible Packaging](https://packagingandcontent.blob.core.windows.net/accessibility/Creating-Accessible-Packaging.pdf)
+- [Tags and requirements](https://accessiblegames.com/wp-content/uploads/2025/03/Accessible-Games-Initiative-Tags-and-Criteria-March-2025.pdf)
 
 ### Formations
 - [Accessible Design with Unreal Engine](https://dev.epicgames.com/community/learning/courses/7M1/accessible-design-with-unreal-engine/yGwl/accessible-design-in-unreal-engine-overview)
