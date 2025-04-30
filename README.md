@@ -63,6 +63,7 @@ graph TD
 - [Accessibility Unlocked](https://www.accessunlocked.games/)
 - [Game Lover](https://www.game-lover.org/)
 - [Acessible Game Initiative](https://accessiblegames.com/)
+- [Does the dog die?](https://www.doesthedogdie.com/)
 
 ### Reddit et discord
 - [r/accessiblegaming](https://www.reddit.com/r/accessiblegaming/)
