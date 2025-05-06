@@ -76,3 +76,4 @@ graph TD
 - [#a11yTO Gaming](https://gaming.a11yto.com/)
 - [XR Access](https://xraccess.org/)
 - [Nothing Without Us](https://www.nothingwithoutus.co.uk/)
+- Games Accessibility Gathering
