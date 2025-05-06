@@ -47,6 +47,7 @@ graph TD
 - [Ubisoft’s Colorblind Simulation Tool, Chroma](https://github.com/ubisoft/Chroma)
 - [SensePilot](https://sensepilot.tech/)
 - [Play Ability](https://www.playability.gg/fr)
+- [The Controller Project](https://thecontrollerproject.com/)
 
 ### Intégration Continue
 - **CI/CD** : Utilisation de services comme Jenkins, Travis CI, ou GitHub Actions pour automatiser les tests d’accessibilité.
