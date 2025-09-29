@@ -43,11 +43,13 @@ graph TD
 
 ### Outils de Développement et logiciels
 - [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin)
+- [Unity Accessibility Features](https://discussions.unity.com/tag/accessibility-features)
 - [Microsoft Game Accessibility Testing Service (MGATS)](https://learn.microsoft.com/en-us/gaming/accessibility/mgats)
 - [Ubisoft’s Colorblind Simulation Tool, Chroma](https://github.com/ubisoft/Chroma)
 - [SensePilot](https://sensepilot.tech/)
 - [Play Ability](https://www.playability.gg/fr)
 - [The Controller Project](https://thecontrollerproject.com/)
+- [Roblox - Accessibility guidelines](https://create.roblox.com/docs/production/publishing/accessibility)
 
 ### Intégration Continue
 - **CI/CD** : Utilisation de services comme Jenkins, Travis CI, ou GitHub Actions pour automatiser les tests d’accessibilité.
@@ -77,3 +79,5 @@ graph TD
 - [XR Access](https://xraccess.org/)
 - [Nothing Without Us](https://www.nothingwithoutus.co.uk/)
 - [Games Accessibility Gathering](https://bsky.app/profile/ga11ygathering.bsky.social)
+- [Foundations of Digital Games 25](http://fdg2025.org/)
+- [Impact Days](https://www.linkedin.com/posts/manycats_impact-day-2025-many-cats-studios-fireside-activity-7356694935493828610-3aGl)
