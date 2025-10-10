@@ -67,6 +67,7 @@ graph TD
 - [Game Lover](https://www.game-lover.org/)
 - [Acessible Game Initiative](https://accessiblegames.com/)
 - [Does the dog die?](https://www.doesthedogdie.com/)
+- [Game content triggers database](https://gamecontenttriggers.com/)
 
 ### Reddit et discord
 - [r/accessiblegaming](https://www.reddit.com/r/accessiblegaming/)
