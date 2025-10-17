@@ -46,12 +46,14 @@ graph TD
 - [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin)
 - [Unity Accessibility Features](https://discussions.unity.com/tag/accessibility-features)
 - [Microsoft Game Accessibility Testing Service (MGATS)](https://learn.microsoft.com/en-us/gaming/accessibility/mgats)
-- [Ubisoft’s Colorblind Simulation Tool, Chroma](https://github.com/ubisoft/Chroma)
-- [SensePilot](https://sensepilot.tech/)
-- [Play Ability](https://www.playability.gg/fr)
-- [The Controller Project](https://thecontrollerproject.com/)
 - [Roblox - Accessibility guidelines](https://create.roblox.com/docs/production/publishing/accessibility)
 - [Platform level accessibility recommendations](https://igda-gasig.org/how/platform-level-accessibility-recommendations/)
+- [Ubisoft’s Colorblind Simulation Tool, Chroma](https://github.com/ubisoft/Chroma)
+- [Electronic Arts photosensitivity analysis tool, IRIS](https://github.com/electronicarts/IRIS)
+- [Electronic Arts text size & contrast checking, Fonttik](https://github.com/electronicarts/fonttik)
+- [Head mouse software, SensePilot](https://sensepilot.tech/)
+- [Play Ability](https://www.playability.gg/fr)
+- [The Controller Project](https://thecontrollerproject.com/)
 
 ### Intégration Continue
 - **CI/CD** : Utilisation de services comme Jenkins, Travis CI, ou GitHub Actions pour automatiser les tests d’accessibilité.
