@@ -40,6 +40,7 @@ graph TD
 - [Video Game Accessibility](https://abilitynet.org.uk/training/video-game-accessibility)
 - [Practical Game Accessibility](https://learn.unity.com/course/practical-game-accessibility)
 - [Adaptive Gaming - Makers Making Change](https://www.makersmakingchange.com/s/adaptive-gaming)
+- [Accessibility Toolkit - Safe in our world](https://safeinourworld.org/news/safe-in-our-world-releases-workplace-accessibility-toolkit-for-gaad2025/)
 
 ### Outils de Développement et logiciels
 - [Unity Accessibility Plugin](https://github.com/mikrima/UnityAccessibilityPlugin)
@@ -50,6 +51,7 @@ graph TD
 - [Play Ability](https://www.playability.gg/fr)
 - [The Controller Project](https://thecontrollerproject.com/)
 - [Roblox - Accessibility guidelines](https://create.roblox.com/docs/production/publishing/accessibility)
+- [Platform level accessibility recommendations](https://igda-gasig.org/how/platform-level-accessibility-recommendations/)
 
 ### Intégration Continue
 - **CI/CD** : Utilisation de services comme Jenkins, Travis CI, ou GitHub Actions pour automatiser les tests d’accessibilité.
@@ -69,9 +71,10 @@ graph TD
 - [Does the dog die?](https://www.doesthedogdie.com/)
 - [Game content triggers database](https://gamecontenttriggers.com/)
 
-### Reddit et discord
+### Reddit, discord, Facebook, ...
 - [r/accessiblegaming](https://www.reddit.com/r/accessiblegaming/)
-- [Game Accessibility (IGDA-GASIG)](https://discord.gg/ZEtgxJFbqu)
+- [Discord - Game Accessibility (IGDA-GASIG)](https://discord.gg/ZEtgxJFbqu)
+- [Facebook - Game Accessibility (IGDA-GASIG)](https://www.facebook.com/groups/gameaccessibilityigda/)
 
 ### Conférences et événements
 - [GAConf](https://www.gaconf.com/)
