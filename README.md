@@ -72,6 +72,7 @@ graph TD
 - [Acessible Game Initiative](https://accessiblegames.com/)
 - [Does the dog die?](https://www.doesthedogdie.com/)
 - [Game content triggers database](https://gamecontenttriggers.com/)
+- [Video Games | Audio Description Project](https://adp.acb.org/video-games)
 
 ### Reddit, discord, Facebook, ...
 - [r/accessiblegaming](https://www.reddit.com/r/accessiblegaming/)
